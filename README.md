@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JacksonHolland
-- 👀 I’m interested in artificial intelligence and cognition
-- 🌱 I’m currently studying CS/neuroscience and Math @ MIT
-- 💞️ I’m looking to collaborate on a model of primitive cognition
+- 👀 I’m interested in artificial intelligence and Physics
+- 🌱 I’m currently studying Physics and minoring in Math and Entrepreneurship @ MIT
+- 💞️ I’m looking for interns for my human motion planning startup, Monet.
 - 📫 How to reach me: jacks017@mit.edu
 
 <!---
