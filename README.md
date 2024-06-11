@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JacksonHolland
 - 👀 I’m interested in artificial intelligence and Physics
-- 🌱 I’m currently studying Physics and minoring in Math and Entrepreneurship @ MIT
+- 🌱 I’m currently studying Physics and Writing and minoring in Math and Earth/Planetary Science @ MIT
 - 💞️ I’m looking for interns for my human motion planning startup, Monet.
 - 📫 How to reach me: jacks017@mit.edu
 
